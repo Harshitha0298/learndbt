@@ -1,0 +1,2 @@
+{% set column_name = "gross_amount" %}
+{{ column_name }}
